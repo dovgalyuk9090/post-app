@@ -1,4 +1,11 @@
-# [1.0.0] version
+# [1.0.1] version
 
 ### 
-    Create project
+    (Updated project): added login page
+    
+# Description
+
+### 
+    Implemented login form
+    Created new file interfaces - here we will create all interfaces in our app to add type to all data
+    
