@@ -1,11 +1,9 @@
-# [1.0.1] version
+# [1.0.2] version
 
 ### 
-    (Updated project): added login page
+    (Updated project): added aunthenfication service which will work with server
     
 # Description
 
 ### 
-    Implemented login form
-    Created new file interfaces - here we will create all interfaces in our app to add type to all data
-    
+    По кожному запросу нам буде прилітати токен з сервера. Ми його можемо чекнути.
