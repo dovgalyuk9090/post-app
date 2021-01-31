@@ -20,13 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4daa2ab8-577f-4b2f-8529-4d295c0b262b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/admin/shared/auth.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/shared/share.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/admin/shared/services/auth.guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/admin/shared/services/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/environments/interface.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/admin/admin.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/admin.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/login-page/login-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/login-page/login-page.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/admin/login-page/login-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/login-page/login-page.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/shared/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/shared/components/admin-layout/admin-layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/shared/components/admin-layout/admin-layout.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/shared/components/admin-layout/admin-layout.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/shared/components/admin-layout/admin-layout.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/admin/shared/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/admin/shared/interfaces.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +60,11 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="ts.external.directory.path" value="B:\ANGULAR - projects\Vladilen Angular - 9\app\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\ANGULAR - projects\Vladilen Angular - 9\app\src\app\admin\shared\services" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration name="Tests (angular-blog)" type="JavaScriptTestRunnerKarma">
@@ -95,7 +107,9 @@
       <workItem from="1609695752501" duration="6313000" />
       <workItem from="1610483965526" duration="651000" />
       <workItem from="1610484955552" duration="7102000" />
-      <workItem from="1611208946497" duration="2777000" />
+      <workItem from="1611208946497" duration="5249000" />
+      <workItem from="1611514725711" duration="3146000" />
+      <workItem from="1611901120566" duration="4148000" />
     </task>
     <servers />
   </component>
@@ -112,8 +126,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1612121105239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1612121105239" />
     <state x="438" y="191" key="EditFileWatcherDialog" timestamp="1610567579314">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
