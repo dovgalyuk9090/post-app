@@ -26,7 +26,7 @@
             class="form-control"
             [ngClass]="{invalid: form.get('author').touched && form.get('author').invalid}"
     >
-        <label for="author">Title of post</label>
+        <label for="author">Author of post</label>
         <input id="author" type="author" formControlName="author">
         <div
                 *ngIf="form.get('author').touched && form.get('author').invalid"

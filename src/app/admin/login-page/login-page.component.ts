@@ -27,8 +27,10 @@ export class LoginPageComponent implements OnInit {
     this.route.queryParams.subscribe((params: Params) => {
       if (params['loginAgain']) {
         this.message = 'Please type data';
+      } else if (params['authFailed']) {
+        this.message = 'Seans is expired. Please type data agin';
       }
-    })
+    });
 
     this.form = new FormGroup({
       email: new FormControl(null, [
